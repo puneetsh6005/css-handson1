@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: red;
+}
+
+ol{
+    color:brown;
+    line-height: 50px;
+    font-size: 20px;
+    }
+    .a{
+        text-decoration: line-through;
+    }
+.b{
+    background-color: yellow;
+}
+.c{
+    text-decoration: underline;
+}
+
+
+ul{
+    list-style-type: disc;
+    color: brown;
+    letter-spacing: 3px;
+}
+.d{
+    background-color: yellow;
+}
+p{
+    color: brown;
+}
+a{
+    color: brown;
+    background-color: yellow;
+}
